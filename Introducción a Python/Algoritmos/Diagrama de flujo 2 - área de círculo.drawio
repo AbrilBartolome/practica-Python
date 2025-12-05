@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="29.2.3">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="772" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="wtG9Rl9Fg6_1GsNHkUNG-2" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wtG9Rl9Fg6_1GsNHkUNG-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wtG9Rl9Fg6_1GsNHkUNG-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtG9Rl9Fg6_1GsNHkUNG-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="&#xa;&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;Inicio&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wtG9Rl9Fg6_1GsNHkUNG-4" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wtG9Rl9Fg6_1GsNHkUNG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wtG9Rl9Fg6_1GsNHkUNG-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtG9Rl9Fg6_1GsNHkUNG-1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;br&gt;&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;Mostrar mensaje: &quot;Ingrese una&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;&amp;nbsp;palabra.&quot;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="135" x="232.5" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="wtG9Rl9Fg6_1GsNHkUNG-10" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wtG9Rl9Fg6_1GsNHkUNG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wtG9Rl9Fg6_1GsNHkUNG-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtG9Rl9Fg6_1GsNHkUNG-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&#xa;&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;Definir la variable cantidad_letras y asignarle la extensión de palabra_ingresada&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="80" width="175" x="212.51" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="wtG9Rl9Fg6_1GsNHkUNG-12" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wtG9Rl9Fg6_1GsNHkUNG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wtG9Rl9Fg6_1GsNHkUNG-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtG9Rl9Fg6_1GsNHkUNG-7" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;br&gt;&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;Mostrar mensaje:&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;&quot;La palabra&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;ingresada tiene &quot;,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;cantidad_letras, &quot;letras.&quot;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="188.75" x="205.63" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="wtG9Rl9Fg6_1GsNHkUNG-11" parent="WIyWlLk6GJQsqaUBKTNV-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="80" x="259.995" y="640" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
