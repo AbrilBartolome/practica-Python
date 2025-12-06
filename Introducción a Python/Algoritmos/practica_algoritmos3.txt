@@ -1,0 +1,29 @@
+Problemática: el usuario quiere saber si puede permitir el ingreso a un cliente de determinada edad
+
+Algoritmo:
+1-Solicitar al usuario que ingrese la edad del cliente
+2-Verificar si la edad ingresada cumple con los requisitos del establecimiento
+3-Mostrar al usuario si el cliente puede ingresar al establecimiento
+
+Pseudocódigo:
+
+Inicio del programa
+    # Paso 1: Solicitar al usuario que ingrese la edad del cliente
+    Mostrar mensaje: "Ingrese la edad del cliente:  "
+    Leer la entrada y asignarle la variable edad
+
+    # Paso 2: Verificar si la edad ingresada cumple con los requisitos del establecimiento
+    Si edad >= 18 entonces
+        asignarle a la variable permitido el valor verdadero
+    Sino
+        asignarle a la variable permitido el valor falso
+    Fin Si
+
+    # Paso 3: Mostrar al usuario si el cliente puede ingresar o no
+    Si permitido es verdadero
+        Mostrar mensaje: "Puede ingresar."
+    Sino    
+        Mostrar mensaje: "Lo sentimos, no puede ingresar."
+    Fin Si
+
+Fin
